@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+#d1{
+    font-family: 'Trebuchet MS' !important;
+    font-size: 20px;
+}
+
+h1,h4
+{
+	color: red !important;
+    font-family: 'Trebuchet MS' !important;
+}
